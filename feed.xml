@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Drop</title>
+    <link>https://andrewmerluzzi.github.io/featuredrop-b4bbd9</link>
+    <atom:link href="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>An automatically generated, usually under-five-minute podcast on new AI product features from the major labs and the tools built on them. Each episode explains what shipped, how people are actually using it, practical uses for personal and small-business productivity, and what well-regarded commentators make of it, with a one-week-later follow-up once the real reviews are in. Quiet days get no episode.</description>
+    <itunes:subtitle>New AI features as they ship: what they do, what they're good for, and what informed people think.</itunes:subtitle>
+    <itunes:summary>An automatically generated, usually under-five-minute podcast on new AI product features from the major labs and the tools built on them. Each episode explains what shipped, how people are actually using it, practical uses for personal and small-business productivity, and what well-regarded commentators make of it, with a one-week-later follow-up once the real reviews are in. Quiet days get no episode.</itunes:summary>
+    <itunes:author>Andrew Merluzzi</itunes:author>
+    <copyright>Andrew Merluzzi</copyright>
+    <itunes:owner>
+      <itunes:name>Andrew Merluzzi</itunes:name>
+      <itunes:email>andrewmerluzzi@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/cover.jpg"/>
+    <image><url>https://andrewmerluzzi.github.io/featuredrop-b4bbd9/cover.jpg</url><title>Feature Drop</title><link>https://andrewmerluzzi.github.io/featuredrop-b4bbd9</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 24 Oct 2026 13:23:54 +0000</lastBuildDate>
+    <item>
+      <title>Claude Duet, Anthropic's always-on agent; Gemini Notebook inside Gemini chat</title>
+      <description>Anthropic opened a research preview of Claude Duet, a separate app where Claude watches your connected apps, sends a morning brief, and works on tasks in the background, asking first before it sends, pays or signs anything. Early reviews are split. Also: Google made Gemini Notebook a connected app, so you can work with your notebooks from inside an ordinary Gemini chat.
+
+In this episode:
+• Introducing Claude Duet — Anthropic
+• Claude release notes (Duet launch; Duet safety, privacy, and security) — Releasebot (Anthropic release notes)
+• Anthropic Launches Claude Duet, a Proactive AI Agent — MacRumors
+• Vibe Check: Duet—Anthropic's Always-on Agent — Every (Dan Shipper)
+• Claude Duet discussion — Hacker News
+• Take actions on your notebooks from Gemini Notebook directly in the Gemini app — Google Workspace Updates
+• Organise your projects with notebooks in Gemini Apps — Google Gemini Help</description>
+      <itunes:summary>Anthropic opened a research preview of Claude Duet, a separate app where Claude watches your connected apps, sends a morning brief, and works on tasks in the background, asking first before it sends, pays or signs anything. Early reviews are split. Also: Google made Gemini Notebook a connected app, so you can work with your notebooks from inside an ordinary Gemini chat.
+
+In this episode:
+• Introducing Claude Duet — Anthropic
+• Claude release notes (Duet launch; Duet safety, privacy, and security) — Releasebot (Anthropic release notes)
+• Anthropic Launches Claude Duet, a Proactive AI Agent — MacRumors
+• Vibe Check: Duet—Anthropic's Always-on Agent — Every (Dan Shipper)
+• Claude Duet discussion — Hacker News
+• Take actions on your notebooks from Gemini Notebook directly in the Gemini app — Google Workspace Updates
+• Organise your projects with notebooks in Gemini Apps — Google Gemini Help</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-24-092027.mp3" length="3843065" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-24-092027.mp3#3843065</guid>
+      <pubDate>Sat, 24 Oct 2026 13:23:54 +0000</pubDate>
+      <itunes:duration>5:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
