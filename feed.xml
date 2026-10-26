@@ -4,13 +4,13 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feature Drop</title>
+    <title>The Daily Stack</title>
     <link>https://andrewmerluzzi.github.io/featuredrop-b4bbd9</link>
     <atom:link href="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <description>An automatically generated, usually under-five-minute podcast on new AI product features from the major labs and the tools built on them. Each episode explains what shipped, how people are actually using it, practical uses for personal and small-business productivity, and what well-regarded commentators make of it, with a one-week-later follow-up once the real reviews are in. Quiet days get no episode.</description>
-    <itunes:subtitle>New AI features as they ship: what they do, what they're good for, and what informed people think.</itunes:subtitle>
-    <itunes:summary>An automatically generated, usually under-five-minute podcast on new AI product features from the major labs and the tools built on them. Each episode explains what shipped, how people are actually using it, practical uses for personal and small-business productivity, and what well-regarded commentators make of it, with a one-week-later follow-up once the real reviews are in. Quiet days get no episode.</itunes:summary>
+    <description>An automatically generated personal daily podcast in two parts. First, new AI product features from the major labs and the tools built on them: what shipped, how people use it, how you'd try it, and what informed commentators think, with a one-week-later follow-up. Then a lesson from an ongoing course on software development and AI: how software gets built, programming languages and their history, how LLMs work, agents and tools, and the real evidence on AI adoption and value. Each lesson ends with the thirty-second version you could use to explain it to someone else.</description>
+    <itunes:subtitle>A daily class in software and AI, plus the new AI features worth knowing about.</itunes:subtitle>
+    <itunes:summary>An automatically generated personal daily podcast in two parts. First, new AI product features from the major labs and the tools built on them: what shipped, how people use it, how you'd try it, and what informed commentators think, with a one-week-later follow-up. Then a lesson from an ongoing course on software development and AI: how software gets built, programming languages and their history, how LLMs work, agents and tools, and the real evidence on AI adoption and value. Each lesson ends with the thirty-second version you could use to explain it to someone else.</itunes:summary>
     <itunes:author>Andrew Merluzzi</itunes:author>
     <copyright>Andrew Merluzzi</copyright>
     <itunes:owner>
@@ -18,11 +18,11 @@
       <itunes:email>andrewmerluzzi@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/cover.jpg"/>
-    <image><url>https://andrewmerluzzi.github.io/featuredrop-b4bbd9/cover.jpg</url><title>Feature Drop</title><link>https://andrewmerluzzi.github.io/featuredrop-b4bbd9</link></image>
+    <image><url>https://andrewmerluzzi.github.io/featuredrop-b4bbd9/cover.jpg</url><title>The Daily Stack</title><link>https://andrewmerluzzi.github.io/featuredrop-b4bbd9</link></image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 24 Oct 2026 13:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:18:31 +0000</lastBuildDate>
     <item>
       <title>Claude Duet, Anthropic's always-on agent; Gemini Notebook inside Gemini chat</title>
       <description>Anthropic opened a research preview of Claude Duet, a separate app where Claude watches your connected apps, sends a morning brief, and works on tasks in the background, asking first before it sends, pays or signs anything. Early reviews are split. Also: Google made Gemini Notebook a connected app, so you can work with your notebooks from inside an ordinary Gemini chat.
