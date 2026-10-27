@@ -22,7 +22,57 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 14:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:48:09 +0000</lastBuildDate>
+    <item>
+      <title>The software development lifecycle, and where the time really goes · plus: GPT-6.1 Terra and Siri memory</title>
+      <description>OpenAI's new GPT-6.1 Terra is a faster, cheaper mid-tier model built for computer use and reading documents and drawings. iOS 27.2 gives Siri AI a memory of past conversations and more of your personal context to draw on. Then the lesson: the six stages of the software lifecycle, the evidence that maintenance and understanding existing code take most of the effort, and why that matters for judging AI coding claims.
+
+In this episode:
+• Introducing GPT-6.1 Terra — OpenAI
+• ChatGPT updates (release notes mirror) — Releasebot (OpenAI release notes)
+• OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model — 9to5Mac
+• OpenAI launches GPT-6.1 Terra for precise computer use — TestingCatalog
+• GPT-6.1 Terra — Simon Willison
+• GPT-6.1 Terra pushes the cost efficiency frontier — Artificial Analysis
+• GPT-6.1 Terra Review: Pricing, Benchmarks &amp; Hands-On Tests — Oasis
+• About iOS 27 Updates — Apple Support
+• Siri AI is available in more languages starting today — Apple Newsroom
+• iOS 27.2 is here and Siri AI now remembers your conversations — Absolute Geeks
+• Information Technology: Agencies Need to Develop Modernization Plans for Critical Legacy Systems (GAO-19-471) — U.S. Government Accountability Office
+• Software Maintenance Management: A Study of the Maintenance of Computer Application Software in 487 Data Processing Organizations (Lientz and Swanson, 1980) — Addison-Wesley / Computer History Museum catalog
+• Lientz and Swanson on Software Maintenance — DZone
+• Revisiting The Facts and Fallacies of Software Engineering (Robert Glass) — Coding Horror
+• Measuring Program Comprehension: A Large-Scale Field Study with Professionals (Xia et al., IEEE TSE 2018) — Monash University / IEEE
+• Today was a Good Day: The Daily Life of Software Developers (Meyer, Barr, Bird, Zimmermann, IEEE TSE 2019) — Microsoft Research
+• Developers spend most of their time figuring systems out — Glamorous Toolkit
+• Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR</description>
+      <itunes:summary>OpenAI's new GPT-6.1 Terra is a faster, cheaper mid-tier model built for computer use and reading documents and drawings. iOS 27.2 gives Siri AI a memory of past conversations and more of your personal context to draw on. Then the lesson: the six stages of the software lifecycle, the evidence that maintenance and understanding existing code take most of the effort, and why that matters for judging AI coding claims.
+
+In this episode:
+• Introducing GPT-6.1 Terra — OpenAI
+• ChatGPT updates (release notes mirror) — Releasebot (OpenAI release notes)
+• OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model — 9to5Mac
+• OpenAI launches GPT-6.1 Terra for precise computer use — TestingCatalog
+• GPT-6.1 Terra — Simon Willison
+• GPT-6.1 Terra pushes the cost efficiency frontier — Artificial Analysis
+• GPT-6.1 Terra Review: Pricing, Benchmarks &amp; Hands-On Tests — Oasis
+• About iOS 27 Updates — Apple Support
+• Siri AI is available in more languages starting today — Apple Newsroom
+• iOS 27.2 is here and Siri AI now remembers your conversations — Absolute Geeks
+• Information Technology: Agencies Need to Develop Modernization Plans for Critical Legacy Systems (GAO-19-471) — U.S. Government Accountability Office
+• Software Maintenance Management: A Study of the Maintenance of Computer Application Software in 487 Data Processing Organizations (Lientz and Swanson, 1980) — Addison-Wesley / Computer History Museum catalog
+• Lientz and Swanson on Software Maintenance — DZone
+• Revisiting The Facts and Fallacies of Software Engineering (Robert Glass) — Coding Horror
+• Measuring Program Comprehension: A Large-Scale Field Study with Professionals (Xia et al., IEEE TSE 2018) — Monash University / IEEE
+• Today was a Good Day: The Daily Life of Software Developers (Meyer, Barr, Bird, Zimmermann, IEEE TSE 2019) — Microsoft Research
+• Developers spend most of their time figuring systems out — Glamorous Toolkit
+• Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-27-084020.mp3" length="9330123" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-27-084020.mp3#9330123</guid>
+      <pubDate>Tue, 27 Oct 2026 12:48:09 +0000</pubDate>
+      <itunes:duration>12:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What code actually is: from transistors to Python</title>
       <description>A quiet news day, so this episode is all lesson: the first of the course. We climb the layers of abstraction from transistors and machine code, through Kathleen Booth's assembly language, Grace Hopper's compiler and IBM's FORTRAN, up to Python, libraries and frameworks. We look at why every layer trades control for productivity, why abstractions leak, and what that means for the claim that English is the newest programming language.
