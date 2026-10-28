@@ -22,7 +22,45 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 12:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:08:39 +0000</lastBuildDate>
+    <item>
+      <title>Waterfall, Agile, DevOps: why the methods keep changing · plus: AI assistants and MCP come to Keynote, Pages and Numbers</title>
+      <description>Apple is adding AI assistants to Keynote, Pages and Numbers for Creator Studio subscribers. On the Mac, it's also adding MCP support so outside agents can read and edit your documents. Both arrive in November. Then the lesson: what Waterfall, Agile and DevOps were each trying to fix, how a 1970 paper got misread, the DORA metrics, and why HealthCare.gov became the case study for government IT.
+
+In this episode:
+• Apple Creator Studio adds powerful new AI features and even more creative tools — Apple Newsroom
+• Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote — Daring Fireball (John Gruber)
+• Apple Announces Updates to Creator Studio, Adding New Tools and AI Features to Mac, iPhone, and iPad Apps — MacTrast
+• The Waterfall Model (essay) — David A. Wheeler
+• Winston W. Royce — Wikipedia
+• Manifesto for Agile Software Development — agilemanifesto.org
+• DORA's software delivery metrics — DORA / Google Cloud
+• 2024 DORA Report Infographic — DORA / Google Cloud
+• DORA 2024: AI and platform engineering fall short — The New Stack
+• Healthcare.gov: Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management (GAO-14-694) — U.S. Government Accountability Office
+• HealthCare.gov: Case Study of CMS Management of the Federal Marketplace (OEI-06-14-00350) — HHS Office of Inspector General
+• CBS's Crawford says 6 people signed up for Obamacare on first day — PolitiFact</description>
+      <itunes:summary>Apple is adding AI assistants to Keynote, Pages and Numbers for Creator Studio subscribers. On the Mac, it's also adding MCP support so outside agents can read and edit your documents. Both arrive in November. Then the lesson: what Waterfall, Agile and DevOps were each trying to fix, how a 1970 paper got misread, the DORA metrics, and why HealthCare.gov became the case study for government IT.
+
+In this episode:
+• Apple Creator Studio adds powerful new AI features and even more creative tools — Apple Newsroom
+• Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote — Daring Fireball (John Gruber)
+• Apple Announces Updates to Creator Studio, Adding New Tools and AI Features to Mac, iPhone, and iPad Apps — MacTrast
+• The Waterfall Model (essay) — David A. Wheeler
+• Winston W. Royce — Wikipedia
+• Manifesto for Agile Software Development — agilemanifesto.org
+• DORA's software delivery metrics — DORA / Google Cloud
+• 2024 DORA Report Infographic — DORA / Google Cloud
+• DORA 2024: AI and platform engineering fall short — The New Stack
+• Healthcare.gov: Ineffective Planning and Oversight Practices Underscore the Need for Improved Contract Management (GAO-14-694) — U.S. Government Accountability Office
+• HealthCare.gov: Case Study of CMS Management of the Federal Marketplace (OEI-06-14-00350) — HHS Office of Inspector General
+• CBS's Crawford says 6 people signed up for Obamacare on first day — PolitiFact</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-28-000034.mp3" length="9191899" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-28-000034.mp3#9191899</guid>
+      <pubDate>Wed, 28 Oct 2026 04:08:35 +0000</pubDate>
+      <itunes:duration>12:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The software development lifecycle, and where the time really goes · plus: GPT-6.1 Terra and Siri memory</title>
       <description>OpenAI's new GPT-6.1 Terra is a faster, cheaper mid-tier model built for computer use and reading documents and drawings. iOS 27.2 gives Siri AI a memory of past conversations and more of your personal context to draw on. Then the lesson: the six stages of the software lifecycle, the evidence that maintenance and understanding existing code take most of the effort, and why that matters for judging AI coding claims.
