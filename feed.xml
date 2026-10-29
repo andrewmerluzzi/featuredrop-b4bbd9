@@ -22,7 +22,57 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 04:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:09:47 +0000</lastBuildDate>
+    <item>
+      <title>The Mythical Man-Month: why adding people makes late projects later · plus: ChatGPT gets iCloud Mail and Calendar</title>
+      <description>ChatGPT can now connect to iCloud Mail and iCloud Calendar on every plan, including free. And ChatGPT Pro users in the US can now text their always-on dot agent over iMessage or RCS. Then the lesson: Fred Brooks's law about late projects, his No Silver Bullet essay on essential versus accidental complexity, and how to use both to judge claims about AI coding.
+
+In this episode:
+• ChatGPT on X: iCloud Mail and Calendar plugins are available in ChatGPT — OpenAI
+• ChatGPT Can Now Access Your iCloud Mail and Calendar — MacRumors
+• iCloud Mail and Calendar plugins now work with ChatGPT — 9to5Mac (Zac Hall)
+• ChatGPT can now tackle your iCloud inbox and calendar — Cult of Mac
+• Meet dots — OpenAI
+• Introducing dots — OpenAI
+• ChatGPT release notes — OpenAI
+• OpenAI now lets you text your ChatGPT Dot agent to get things done — Digital Trends
+• OpenAI Dots Review: My Honest Take After Testing It — Prompt Advisers
+• OpenAI Dots Review: How It Works and Our First Day — The Slide Factory
+• OpenAI Dots: Always-On ChatGPT Agents Keep Working but Fail 1 in 5 Long Tasks — Tech Times
+• Dive into new topics with immersive explorations in the Gemini app — Google
+• The Mythical Man-Month — Wikipedia
+• Brooks's law — Wikipedia
+• No Silver Bullet — Wikipedia
+• Frederick Brooks Jr., 1931 to 2022 (obituary) — IEEE Spectrum
+• Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR
+• We are Changing our Developer Productivity Experiment Design — METR</description>
+      <itunes:summary>ChatGPT can now connect to iCloud Mail and iCloud Calendar on every plan, including free. And ChatGPT Pro users in the US can now text their always-on dot agent over iMessage or RCS. Then the lesson: Fred Brooks's law about late projects, his No Silver Bullet essay on essential versus accidental complexity, and how to use both to judge claims about AI coding.
+
+In this episode:
+• ChatGPT on X: iCloud Mail and Calendar plugins are available in ChatGPT — OpenAI
+• ChatGPT Can Now Access Your iCloud Mail and Calendar — MacRumors
+• iCloud Mail and Calendar plugins now work with ChatGPT — 9to5Mac (Zac Hall)
+• ChatGPT can now tackle your iCloud inbox and calendar — Cult of Mac
+• Meet dots — OpenAI
+• Introducing dots — OpenAI
+• ChatGPT release notes — OpenAI
+• OpenAI now lets you text your ChatGPT Dot agent to get things done — Digital Trends
+• OpenAI Dots Review: My Honest Take After Testing It — Prompt Advisers
+• OpenAI Dots Review: How It Works and Our First Day — The Slide Factory
+• OpenAI Dots: Always-On ChatGPT Agents Keep Working but Fail 1 in 5 Long Tasks — Tech Times
+• Dive into new topics with immersive explorations in the Gemini app — Google
+• The Mythical Man-Month — Wikipedia
+• Brooks's law — Wikipedia
+• No Silver Bullet — Wikipedia
+• Frederick Brooks Jr., 1931 to 2022 (obituary) — IEEE Spectrum
+• Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity — METR
+• We are Changing our Developer Productivity Experiment Design — METR</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-29-000006.mp3" length="10067099" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-29-000006.mp3#10067099</guid>
+      <pubDate>Thu, 29 Oct 2026 04:09:47 +0000</pubDate>
+      <itunes:duration>13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Waterfall, Agile, DevOps: why the methods keep changing · plus: AI assistants and MCP come to Keynote, Pages and Numbers</title>
       <description>Apple is adding AI assistants to Keynote, Pages and Numbers for Creator Studio subscribers. On the Mac, it's also adding MCP support so outside agents can read and edit your documents. Both arrive in November. Then the lesson: what Waterfall, Agile and DevOps were each trying to fix, how a 1970 paper got misread, the DORA metrics, and why HealthCare.gov became the case study for government IT.
