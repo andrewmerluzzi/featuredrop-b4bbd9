@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 04:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:03:40 +0000</lastBuildDate>
+    <item>
+      <title>Git and version control: the time machine every team depends on</title>
+      <description>No feature news worth your time today. The lesson explains version control and Git: commits as snapshots, branches as cheap pointers, merges, pull requests and GitHub, and why AI coding agents work through Git.
+
+In this episode:
+• Git turns 20: A Q&amp;A with Linus Torvalds — GitHub Blog
+• A Short History of Git — Pro Git book, git-scm.com
+• Git (Britannica) — Encyclopaedia Britannica
+• Linus Torvalds On Git — I Programmer
+• git at 20 — Michael Tsai</description>
+      <itunes:summary>No feature news worth your time today. The lesson explains version control and Git: commits as snapshots, branches as cheap pointers, merges, pull requests and GitHub, and why AI coding agents work through Git.
+
+In this episode:
+• Git turns 20: A Q&amp;A with Linus Torvalds — GitHub Blog
+• A Short History of Git — Pro Git book, git-scm.com
+• Git (Britannica) — Encyclopaedia Britannica
+• Linus Torvalds On Git — I Programmer
+• git at 20 — Michael Tsai</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-30-000010.mp3" length="5250247" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-30-000010.mp3#5250247</guid>
+      <pubDate>Fri, 30 Oct 2026 04:03:39 +0000</pubDate>
+      <itunes:duration>7:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Mythical Man-Month: why adding people makes late projects later · plus: ChatGPT gets iCloud Mail and Calendar</title>
       <description>ChatGPT can now connect to iCloud Mail and iCloud Calendar on every plan, including free. And ChatGPT Pro users in the US can now text their always-on dot agent over iMessage or RCS. Then the lesson: Fred Brooks's law about late projects, his No Silver Bullet essay on essential versus accidental complexity, and how to use both to judge claims about AI coding.
