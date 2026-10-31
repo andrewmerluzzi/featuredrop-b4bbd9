@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 04:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:46:04 +0000</lastBuildDate>
+    <item>
+      <title>Testing: how anyone knows the code works</title>
+      <description>No feature news worth your time today. The lesson covers the three kinds of automated tests, the test pyramid, what coverage numbers do and do not tell you, and why verification is becoming the central job when AI writes the code.
+
+In this episode:
+• The Test Pyramid 2.0: AI-assisted testing across the pyramid — Frontiers in Artificial Intelligence (via PMC)
+• Disrupting Test Development with AI Assistants — arXiv
+• The Practical Test Pyramid — Martin Fowler's site
+• Google Testing Blog — Google
+• Claude Duet: Anthropic's Proactive Agent Turns Your SaaS Into Its Back Office — BuildMVPFast</description>
+      <itunes:summary>No feature news worth your time today. The lesson covers the three kinds of automated tests, the test pyramid, what coverage numbers do and do not tell you, and why verification is becoming the central job when AI writes the code.
+
+In this episode:
+• The Test Pyramid 2.0: AI-assisted testing across the pyramid — Frontiers in Artificial Intelligence (via PMC)
+• Disrupting Test Development with AI Assistants — arXiv
+• The Practical Test Pyramid — Martin Fowler's site
+• Google Testing Blog — Google
+• Claude Duet: Anthropic's Proactive Agent Turns Your SaaS Into Its Back Office — BuildMVPFast</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-31-123005.mp3" length="4877842" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-10-31-123005.mp3#4877842</guid>
+      <pubDate>Sat, 31 Oct 2026 16:46:03 +0000</pubDate>
+      <itunes:duration>6:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Git and version control: the time machine every team depends on</title>
       <description>No feature news worth your time today. The lesson explains version control and Git: commits as snapshots, branches as cheap pointers, merges, pull requests and GitHub, and why AI coding agents work through Git.
