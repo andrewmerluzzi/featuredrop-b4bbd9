@@ -22,7 +22,35 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 16:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:20:52 +0000</lastBuildDate>
+    <item>
+      <title>Shipping it: CI/CD, deployment, and rollbacks</title>
+      <description>A quiet day for verified feature news, so we go straight to the lesson. Continuous integration and delivery, staging versus production, feature flags and canary releases, why the best teams ship many times a day while others ship quarterly, and the Knight Capital deployment that lost hundreds of millions of dollars in forty-five minutes.
+
+In this episode:
+• Knight Capital Group — Wikipedia (citing the SEC administrative order, File No. 3-15570)
+• Knight Capital: a story about DevOps and automated governance — Kosli
+• The Worst Computer Bugs in History: Losing $460m in 45 minutes — SmartBear
+• RDEL #68: Latest benchmarks for the DORA four key metrics (2024 DORA Report) — RDEL
+• DORA metrics — Coralogix
+• Velocity Culture (Jon Jenkins, Velocity 2011), discussion thread — Hacker News
+• Cloud-Powered Continuous Integration and Deployment Architectures — QCon San Francisco 2011 (Amazon Web Services)</description>
+      <itunes:summary>A quiet day for verified feature news, so we go straight to the lesson. Continuous integration and delivery, staging versus production, feature flags and canary releases, why the best teams ship many times a day while others ship quarterly, and the Knight Capital deployment that lost hundreds of millions of dollars in forty-five minutes.
+
+In this episode:
+• Knight Capital Group — Wikipedia (citing the SEC administrative order, File No. 3-15570)
+• Knight Capital: a story about DevOps and automated governance — Kosli
+• The Worst Computer Bugs in History: Losing $460m in 45 minutes — SmartBear
+• RDEL #68: Latest benchmarks for the DORA four key metrics (2024 DORA Report) — RDEL
+• DORA metrics — Coralogix
+• Velocity Culture (Jon Jenkins, Velocity 2011), discussion thread — Hacker News
+• Cloud-Powered Continuous Integration and Deployment Architectures — QCon San Francisco 2011 (Amazon Web Services)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-01-081622.mp3" length="6379062" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-01-081622.mp3#6379062</guid>
+      <pubDate>Sun, 01 Nov 2026 13:20:51 +0000</pubDate>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Testing: how anyone knows the code works</title>
       <description>No feature news worth your time today. The lesson covers the three kinds of automated tests, the test pyramid, what coverage numbers do and do not tell you, and why verification is becoming the central job when AI writes the code.
