@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 01 Nov 2026 13:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Technical debt: the interest payments nobody budgets for</title>
+      <description>No feature news cleared the bar today. The lesson covers Ward Cunningham's technical debt metaphor, what he actually meant by it, why the interest is invisible to budgets, and what early evidence says about whether AI coding tools pay debt down or pile it up.
+
+In this episode:
+• Technical debt: the WyCash Portfolio Management System and Cunningham's later clarification — Praxent
+• Translating technical debt — DEV Community
+• 10 Years of Tech Debt Research — DX Newsletter
+• Google DORA: Software delivery caught up to AI coding tools — TechTarget
+• Humans do it better: GitClear analyzes 153M lines of code, finds risks of AI — Arc.dev (on GitClear research)</description>
+      <itunes:summary>No feature news cleared the bar today. The lesson covers Ward Cunningham's technical debt metaphor, what he actually meant by it, why the interest is invisible to budgets, and what early evidence says about whether AI coding tools pay debt down or pile it up.
+
+In this episode:
+• Technical debt: the WyCash Portfolio Management System and Cunningham's later clarification — Praxent
+• Translating technical debt — DEV Community
+• 10 Years of Tech Debt Research — DX Newsletter
+• Google DORA: Software delivery caught up to AI coding tools — TechTarget
+• Humans do it better: GitClear analyzes 153M lines of code, finds risks of AI — Arc.dev (on GitClear research)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-02-011718.mp3" length="5030528" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-02-011718.mp3#5030528</guid>
+      <pubDate>Mon, 02 Nov 2026 06:20:35 +0000</pubDate>
+      <itunes:duration>6:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Shipping it: CI/CD, deployment, and rollbacks</title>
       <description>A quiet day for verified feature news, so we go straight to the lesson. Continuous integration and delivery, staging versus production, feature flags and canary releases, why the best teams ship many times a day while others ship quarterly, and the Knight Capital deployment that lost hundreds of millions of dollars in forty-five minutes.
