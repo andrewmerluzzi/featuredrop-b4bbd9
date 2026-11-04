@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 03 Nov 2026 05:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:03:05 +0000</lastBuildDate>
+    <item>
+      <title>Open source: the commons all software is built on</title>
+      <description>A quiet day for consumer feature news, so today is lesson-only. The lesson covers open source: how permissive and copyleft licenses differ, why a few overworked volunteers hold up critical infrastructure, what the xz-utils and Log4j incidents revealed, and why 'open-weight' AI models are not quite open source.
+
+In this episode:
+• Newsroom - Anthropic — Anthropic
+• Andres Freund: backdoor in upstream xz/liblzma leading to ssh server compromise — oss-security mailing list (Openwall)
+• Apache Log4j security vulnerabilities — Apache Software Foundation
+• Review of the December 2021 Log4j Event — Cyber Safety Review Board, CISA
+• GNU General Public License, version 3 — Free Software Foundation
+• The Open Source AI Definition 1.0 — Open Source Initiative</description>
+      <itunes:summary>A quiet day for consumer feature news, so today is lesson-only. The lesson covers open source: how permissive and copyleft licenses differ, why a few overworked volunteers hold up critical infrastructure, what the xz-utils and Log4j incidents revealed, and why 'open-weight' AI models are not quite open source.
+
+In this episode:
+• Newsroom - Anthropic — Anthropic
+• Andres Freund: backdoor in upstream xz/liblzma leading to ssh server compromise — oss-security mailing list (Openwall)
+• Apache Log4j security vulnerabilities — Apache Software Foundation
+• Review of the December 2021 Log4j Event — Cyber Safety Review Board, CISA
+• GNU General Public License, version 3 — Free Software Foundation
+• The Open Source AI Definition 1.0 — Open Source Initiative</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-04-085856.mp3" length="6252111" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-04-085856.mp3#6252111</guid>
+      <pubDate>Wed, 04 Nov 2026 14:03:05 +0000</pubDate>
+      <itunes:duration>8:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The bottleneck moves: SDLC in the age of AI coding</title>
       <description>A quiet day for feature news, so the episode is all lesson. When AI makes writing code cheap, the constraint in software delivery shifts to specification, review, verification and integration. We walk through the field evidence: the METR randomized trial, the Microsoft, Accenture and Fortune 100 experiments, Faros AI's telemetry, and the DORA reports.
