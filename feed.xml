@@ -22,7 +22,25 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 04 Nov 2026 14:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:21:03 +0000</lastBuildDate>
+    <item>
+      <title>How languages differ: the four questions that explain most of it</title>
+      <description>No feature news worth your time today, and the two follow-ups from last week had no substantive new reactions. The lesson opens the programming-languages unit with four questions that let you place any language: how it runs, how it checks types, how it manages memory, and what style it encourages.
+
+In this episode:
+• The Case for Memory Safe Roadmaps — CISA
+• White House urges developers to avoid C and C++, use 'memory-safe' programming languages — Tom's Hardware</description>
+      <itunes:summary>No feature news worth your time today, and the two follow-ups from last week had no substantive new reactions. The lesson opens the programming-languages unit with four questions that let you place any language: how it runs, how it checks types, how it manages memory, and what style it encourages.
+
+In this episode:
+• The Case for Memory Safe Roadmaps — CISA
+• White House urges developers to avoid C and C++, use 'memory-safe' programming languages — Tom's Hardware</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-05-091740.mp3" length="5780982" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-05-091740.mp3#5780982</guid>
+      <pubDate>Thu, 05 Nov 2026 14:21:03 +0000</pubDate>
+      <itunes:duration>7:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Open source: the commons all software is built on</title>
       <description>A quiet day for consumer feature news, so today is lesson-only. The lesson covers open source: how permissive and copyleft licenses differ, why a few overworked volunteers hold up critical infrastructure, what the xz-utils and Log4j incidents revealed, and why 'open-weight' AI models are not quite open source.
