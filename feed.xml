@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 05 Nov 2026 14:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:36:40 +0000</lastBuildDate>
+    <item>
+      <title>C and C++: the languages under everything</title>
+      <description>No feature news worth covering today. The lesson looks at C and C++, the languages beneath operating systems, browsers and embedded devices: why their speed and control come with memory-safety bugs, the evidence that those bugs make up the majority of serious vulnerabilities, and the federal push toward memory-safe languages.
+
+In this episode:
+• The Case for Memory Safe Roadmaps — CISA
+• Software Makers Encouraged to Stop Using C/C++ by 2026 — TechRepublic
+• A proactive approach to more secure code — Microsoft Security Response Center
+• Eliminating Memory Safety Vulnerabilities at the Source — Google Security Blog</description>
+      <itunes:summary>No feature news worth covering today. The lesson looks at C and C++, the languages beneath operating systems, browsers and embedded devices: why their speed and control come with memory-safety bugs, the evidence that those bugs make up the majority of serious vulnerabilities, and the federal push toward memory-safe languages.
+
+In this episode:
+• The Case for Memory Safe Roadmaps — CISA
+• Software Makers Encouraged to Stop Using C/C++ by 2026 — TechRepublic
+• A proactive approach to more secure code — Microsoft Security Response Center
+• Eliminating Memory Safety Vulnerabilities at the Source — Google Security Blog</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-06-090953.mp3" length="5843653" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-06-090953.mp3#5843653</guid>
+      <pubDate>Fri, 06 Nov 2026 14:36:40 +0000</pubDate>
+      <itunes:duration>7:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How languages differ: the four questions that explain most of it</title>
       <description>No feature news worth your time today, and the two follow-ups from last week had no substantive new reactions. The lesson opens the programming-languages unit with four questions that let you place any language: how it runs, how it checks types, how it manages memory, and what style it encourages.
