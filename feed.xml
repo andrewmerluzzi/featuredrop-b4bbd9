@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 14:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:23:45 +0000</lastBuildDate>
+    <item>
+      <title>Python: how a hobby language took over science and AI · plus: Personal Finance in Claude</title>
+      <description>Anthropic launched Personal Finance in Claude, a US-only beta for paid plans that reads your connected bank and card accounts and answers questions about spending, upcoming bills and odd charges. Then a lesson on Python: how a Christmas-break hobby project became the language of science and AI, why it is slow, and how the heavy lifting is quietly done in C and on GPUs underneath.
+
+In this episode:
+• Introducing Personal Finance in Claude — Anthropic
+• Anthropic upgrades Claude with new Personal Finance feature — 9to5Mac
+• Anthropic wants Claude to analyze your bank account and financial data — BleepingComputer
+• PEP 703: Making the Global Interpreter Lock Optional in CPython — Python Software Foundation
+• A Brief Timeline of Python — Guido van Rossum, The History of Python
+• Array programming with NumPy — Nature</description>
+      <itunes:summary>Anthropic launched Personal Finance in Claude, a US-only beta for paid plans that reads your connected bank and card accounts and answers questions about spending, upcoming bills and odd charges. Then a lesson on Python: how a Christmas-break hobby project became the language of science and AI, why it is slow, and how the heavy lifting is quietly done in C and on GPUs underneath.
+
+In this episode:
+• Introducing Personal Finance in Claude — Anthropic
+• Anthropic upgrades Claude with new Personal Finance feature — 9to5Mac
+• Anthropic wants Claude to analyze your bank account and financial data — BleepingComputer
+• PEP 703: Making the Global Interpreter Lock Optional in CPython — Python Software Foundation
+• A Brief Timeline of Python — Guido van Rossum, The History of Python
+• Array programming with NumPy — Nature</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-07-130702.mp3" length="6767181" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-07-130702.mp3#6767181</guid>
+      <pubDate>Sat, 07 Nov 2026 21:23:44 +0000</pubDate>
+      <itunes:duration>9:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>C and C++: the languages under everything</title>
       <description>No feature news worth covering today. The lesson looks at C and C++, the languages beneath operating systems, browsers and embedded devices: why their speed and control come with memory-safety bugs, the evidence that those bugs make up the majority of serious vulnerabilities, and the federal push toward memory-safe languages.
