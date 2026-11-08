@@ -22,7 +22,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 07 Nov 2026 21:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:32:06 +0000</lastBuildDate>
+    <item>
+      <title>Java and C#: the enterprise workhorses</title>
+      <description>No feature news worth covering today. The lesson covers Java and C sharp: the virtual machine idea behind write once, run anywhere, why banks and agencies standardized on them, Microsoft's fight with Sun that produced C sharp, and the Supreme Court's Google versus Oracle decision. Opens with a quick recall question on Waterfall, Agile and DevOps.
+
+In this episode:
+• U.S. Supreme Court Ends Decade-Long Software Copyright Battle: Google Wins — Jones Day
+• Google v. Oracle: Supreme Court Rules for Google in Landmark Software Copyright Case — Congressional Research Service
+• Sun Microsoft Rivalry Heats Up With Java Settlement — Redmond Channel Partner
+• Microsoft Migrates Its Java Developers — eWeek</description>
+      <itunes:summary>No feature news worth covering today. The lesson covers Java and C sharp: the virtual machine idea behind write once, run anywhere, why banks and agencies standardized on them, Microsoft's fight with Sun that produced C sharp, and the Supreme Court's Google versus Oracle decision. Opens with a quick recall question on Waterfall, Agile and DevOps.
+
+In this episode:
+• U.S. Supreme Court Ends Decade-Long Software Copyright Battle: Google Wins — Jones Day
+• Google v. Oracle: Supreme Court Rules for Google in Landmark Software Copyright Case — Congressional Research Service
+• Sun Microsoft Rivalry Heats Up With Java Settlement — Redmond Channel Partner
+• Microsoft Migrates Its Java Developers — eWeek</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-08-072856.mp3" length="6154925" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-08-072856.mp3#6154925</guid>
+      <pubDate>Sun, 08 Nov 2026 12:32:06 +0000</pubDate>
+      <itunes:duration>8:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Python: how a hobby language took over science and AI · plus: Personal Finance in Claude</title>
       <description>Anthropic launched Personal Finance in Claude, a US-only beta for paid plans that reads your connected bank and card accounts and answers questions about spending, upcoming bills and odd charges. Then a lesson on Python: how a Christmas-break hobby project became the language of science and AI, why it is slow, and how the heavy lifting is quietly done in C and on GPUs underneath.
