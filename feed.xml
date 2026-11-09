@@ -22,7 +22,41 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 08 Nov 2026 12:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:02:39 +0000</lastBuildDate>
+    <item>
+      <title>JavaScript and TypeScript: the language of the web · plus: Meta Muse Spaces, Alexa texting</title>
+      <description>Two agent-flavored features from the past few days: Meta's Muse can now build custom trackers and planners called Spaces, and Amazon's Alexa for Shopping agent now takes orders by text. Then a lesson on JavaScript and TypeScript: a rushed 1995 prototype that ended up running the web, the npm ecosystem and its supply-chain risk, and why types were bolted back on.
+
+In this episode:
+• Meta adds Spaces to Muse, letting its AI agent build trackers and planners — MarketScale
+• Introducing Muse: The World's First Personal AI Agent Built for Everyone — Meta
+• Meta's Muse Adds Custom Spaces Built From Your Descriptions — Technobezz
+• Alexa for Shopping: text to shop — Amazon
+• Amazon is Letting Customers Text Its Shopping Assistant — Adweek
+• Amazon's Alexa for Shopping agent will now take your orders by text — The Next Web
+• Did Brendan Eich really make JavaScript in 10 days? — Hillel Wayne
+• The 10-day programming language is a myth — The History of the Web
+• 30 years of JavaScript: 10 milestones that changed the web — The New Stack
+• A brief history of Node.js — Flavio Copes</description>
+      <itunes:summary>Two agent-flavored features from the past few days: Meta's Muse can now build custom trackers and planners called Spaces, and Amazon's Alexa for Shopping agent now takes orders by text. Then a lesson on JavaScript and TypeScript: a rushed 1995 prototype that ended up running the web, the npm ecosystem and its supply-chain risk, and why types were bolted back on.
+
+In this episode:
+• Meta adds Spaces to Muse, letting its AI agent build trackers and planners — MarketScale
+• Introducing Muse: The World's First Personal AI Agent Built for Everyone — Meta
+• Meta's Muse Adds Custom Spaces Built From Your Descriptions — Technobezz
+• Alexa for Shopping: text to shop — Amazon
+• Amazon is Letting Customers Text Its Shopping Assistant — Adweek
+• Amazon's Alexa for Shopping agent will now take your orders by text — The Next Web
+• Did Brendan Eich really make JavaScript in 10 days? — Hillel Wayne
+• The 10-day programming language is a myth — The History of the Web
+• 30 years of JavaScript: 10 milestones that changed the web — The New Stack
+• A brief history of Node.js — Flavio Copes</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-09-035918.mp3" length="5933041" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-09-035918.mp3#5933041</guid>
+      <pubDate>Mon, 09 Nov 2026 09:02:39 +0000</pubDate>
+      <itunes:duration>7:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Java and C#: the enterprise workhorses</title>
       <description>No feature news worth covering today. The lesson covers Java and C sharp: the virtual machine idea behind write once, run anywhere, why banks and agencies standardized on them, Microsoft's fight with Sun that produced C sharp, and the Supreme Court's Google versus Oracle decision. Opens with a quick recall question on Waterfall, Agile and DevOps.
