@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 09 Nov 2026 09:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:17:01 +0000</lastBuildDate>
+    <item>
+      <title>Go and Rust: the modern systems languages</title>
+      <description>No feature news worth your time today. The lesson covers Go and Rust, two languages built in reaction to C and C plus plus: Go trades power for simplicity in cloud services, while Rust uses a strict compiler to deliver memory safety without garbage collection, now in the Linux kernel and Windows.
+
+In this episode:
+• Go FAQ — The Go Project
+• What Is Ownership? (The Rust Programming Language) — Rust Project
+• Linux Kernel: Rust Support Officially Approved — heise online
+• Rust For Linux No Longer Experimental — I Programmer
+• Eliminating Memory Safety Vulnerabilities at the Source — Google Security Blog</description>
+      <itunes:summary>No feature news worth your time today. The lesson covers Go and Rust, two languages built in reaction to C and C plus plus: Go trades power for simplicity in cloud services, while Rust uses a strict compiler to deliver memory safety without garbage collection, now in the Linux kernel and Windows.
+
+In this episode:
+• Go FAQ — The Go Project
+• What Is Ownership? (The Rust Programming Language) — Rust Project
+• Linux Kernel: Rust Support Officially Approved — heise online
+• Rust For Linux No Longer Experimental — I Programmer
+• Eliminating Memory Safety Vulnerabilities at the Source — Google Security Blog</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-10-001413.mp3" length="5566232" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-10-001413.mp3#5566232</guid>
+      <pubDate>Tue, 10 Nov 2026 05:17:00 +0000</pubDate>
+      <itunes:duration>7:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>JavaScript and TypeScript: the language of the web · plus: Meta Muse Spaces, Alexa texting</title>
       <description>Two agent-flavored features from the past few days: Meta's Muse can now build custom trackers and planners called Spaces, and Amazon's Alexa for Shopping agent now takes orders by text. Then a lesson on JavaScript and TypeScript: a rushed 1995 prototype that ended up running the web, the npm ecosystem and its supply-chain risk, and why types were bolted back on.
