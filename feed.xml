@@ -22,7 +22,33 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 10 Nov 2026 05:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:23:30 +0000</lastBuildDate>
+    <item>
+      <title>SQL: the fifty-year-old language that still runs the world's data · plus: Create My Widget and Gemini Intelligence on Pixel</title>
+      <description>Google's November Pixel Drop brings Gemini Intelligence and Create My Widget, which builds a custom home screen widget from a typed description, to recent Pixels. The lesson covers SQL: Codd's relational model, why declarative queries outlived every replacement, and why text-to-SQL is both a practical LLM use and harder than the headline benchmarks suggest.
+
+In this episode:
+• Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop — Google
+• November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, &amp; more — 9to5Google
+• History of SQL — Oracle
+• A Relational Model of Data for Large Shared Data Banks (E. F. Codd, 1970) — Communications of the ACM
+• Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows — arXiv / ICLR 2025
+• ReViSQL (BIRD benchmark analysis) — arXiv</description>
+      <itunes:summary>Google's November Pixel Drop brings Gemini Intelligence and Create My Widget, which builds a custom home screen widget from a typed description, to recent Pixels. The lesson covers SQL: Codd's relational model, why declarative queries outlived every replacement, and why text-to-SQL is both a practical LLM use and harder than the headline benchmarks suggest.
+
+In this episode:
+• Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop — Google
+• November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, &amp; more — 9to5Google
+• History of SQL — Oracle
+• A Relational Model of Data for Large Shared Data Banks (E. F. Codd, 1970) — Communications of the ACM
+• Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows — arXiv / ICLR 2025
+• ReViSQL (BIRD benchmark analysis) — arXiv</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-11-121511.mp3" length="6996362" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-11-121511.mp3#6996362</guid>
+      <pubDate>Wed, 11 Nov 2026 17:23:29 +0000</pubDate>
+      <itunes:duration>9:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Go and Rust: the modern systems languages</title>
       <description>No feature news worth your time today. The lesson covers Go and Rust, two languages built in reaction to C and C plus plus: Go trades power for simplicity in cloud services, while Rust uses a strict compiler to deliver memory safety without garbage collection, now in the Linux kernel and Windows.
