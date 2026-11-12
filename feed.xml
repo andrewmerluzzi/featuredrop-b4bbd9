@@ -22,7 +22,45 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 11 Nov 2026 17:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:34:42 +0000</lastBuildDate>
+    <item>
+      <title>COBOL and the mainframe: legacy that still pays your benefits · plus: Claude Whiteboards and Sheets</title>
+      <description>Anthropic put shared Whiteboards and Sheets into Claude on paid plans, with Meetings and a renamed Claude Data alongside. Then a lesson on COBOL: where it still runs government benefits and banking, what the 2020 unemployment crisis really showed, and why the real risk is people and undocumented rules, not the language.
+
+In this episode:
+• Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks — TechCrunch
+• Anthropic adds spreadsheets and whiteboards to Claude, with Claude Meetings coming next — tech-ish
+• Anthropic puts Claude in Google Meet calls, adds Whiteboards and Sheets — BetaNews
+• Google's Gemini can now use food and ride apps for people in 3 more countries — PPC Land
+• Google Gemini app starts rolling out to Apple CarPlay worldwide — iGeeksBlog
+• COBOL cowboys aim to rescue sluggish state unemployment systems — NPR
+• No, COBOL Is Not a Dead Language — Data Center Knowledge
+• How states can avoid New Jersey's legacy systems meltdown — Route Fifty
+• Federal Legacy IT Systems (GAO-19-471) — U.S. Government Accountability Office
+• IRS legacy systems (individual master file in assembly language) — U.S. Government Accountability Office
+• COBOL programming shelf life — IEEE Spectrum
+• DOGE Plans to Update Outdated SSA Coding Language — PYMNTS</description>
+      <itunes:summary>Anthropic put shared Whiteboards and Sheets into Claude on paid plans, with Meetings and a renamed Claude Data alongside. Then a lesson on COBOL: where it still runs government benefits and banking, what the 2020 unemployment crisis really showed, and why the real risk is people and undocumented rules, not the language.
+
+In this episode:
+• Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks — TechCrunch
+• Anthropic adds spreadsheets and whiteboards to Claude, with Claude Meetings coming next — tech-ish
+• Anthropic puts Claude in Google Meet calls, adds Whiteboards and Sheets — BetaNews
+• Google's Gemini can now use food and ride apps for people in 3 more countries — PPC Land
+• Google Gemini app starts rolling out to Apple CarPlay worldwide — iGeeksBlog
+• COBOL cowboys aim to rescue sluggish state unemployment systems — NPR
+• No, COBOL Is Not a Dead Language — Data Center Knowledge
+• How states can avoid New Jersey's legacy systems meltdown — Route Fifty
+• Federal Legacy IT Systems (GAO-19-471) — U.S. Government Accountability Office
+• IRS legacy systems (individual master file in assembly language) — U.S. Government Accountability Office
+• COBOL programming shelf life — IEEE Spectrum
+• DOGE Plans to Update Outdated SSA Coding Language — PYMNTS</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-12-092446.mp3" length="6868443" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-12-092446.mp3#6868443</guid>
+      <pubDate>Thu, 12 Nov 2026 14:34:41 +0000</pubDate>
+      <itunes:duration>9:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>SQL: the fifty-year-old language that still runs the world's data · plus: Create My Widget and Gemini Intelligence on Pixel</title>
       <description>Google's November Pixel Drop brings Gemini Intelligence and Create My Widget, which builds a custom home screen widget from a typed description, to recent Pixels. The lesson covers SQL: Codd's relational model, why declarative queries outlived every replacement, and why text-to-SQL is both a practical LLM use and harder than the headline benchmarks suggest.
