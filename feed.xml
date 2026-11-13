@@ -22,7 +22,31 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 12 Nov 2026 14:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:51:44 +0000</lastBuildDate>
+    <item>
+      <title>Fortran and scientific computing</title>
+      <description>No feature news worth your time today. The lesson covers why weather, climate and physics codes still run on Fortran, why that choice is often rational, and what happens when teams try to move off it, including the E3SM climate model's rewrite in C plus plus.
+
+In this episode:
+• Fortran at IBM history — IBM
+• The Fortran Story Retold / Fortran history — obliquity.com
+• HOMMEXX 1.0: performance-portable atmospheric dynamical core for the Energy Exascale Earth System Model — U.S. Department of Energy, E3SM
+• HOMME Non-Hydrostatic Dycore at 3 km Resolution Achieves 0.97 SYPD on Summit — E3SM
+• Cloud resolving modeling on exascale computers — Modeling Talks</description>
+      <itunes:summary>No feature news worth your time today. The lesson covers why weather, climate and physics codes still run on Fortran, why that choice is often rational, and what happens when teams try to move off it, including the E3SM climate model's rewrite in C plus plus.
+
+In this episode:
+• Fortran at IBM history — IBM
+• The Fortran Story Retold / Fortran history — obliquity.com
+• HOMMEXX 1.0: performance-portable atmospheric dynamical core for the Energy Exascale Earth System Model — U.S. Department of Energy, E3SM
+• HOMME Non-Hydrostatic Dycore at 3 km Resolution Achieves 0.97 SYPD on Summit — E3SM
+• Cloud resolving modeling on exascale computers — Modeling Talks</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-13-124838.mp3" length="4642115" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-13-124838.mp3#4642115</guid>
+      <pubDate>Fri, 13 Nov 2026 17:51:44 +0000</pubDate>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>COBOL and the mainframe: legacy that still pays your benefits · plus: Claude Whiteboards and Sheets</title>
       <description>Anthropic put shared Whiteboards and Sheets into Claude on paid plans, with Meetings and a renamed Claude Data alongside. Then a lesson on COBOL: where it still runs government benefits and banking, what the 2020 unemployment crisis really showed, and why the real risk is people and undocumented rules, not the language.
