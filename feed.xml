@@ -22,7 +22,63 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 13 Nov 2026 17:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:44:47 +0000</lastBuildDate>
+    <item>
+      <title>Rewrite, refactor, or wrap? The legacy modernization decision · plus: ChatGPT Wallet and Google Wallet in Gemini</title>
+      <description>OpenAI's dots can now buy things for you through ChatGPT Wallet, in a limited US Pro rollout. Gemini can now read linked bank and card accounts through Google Wallet, and Google's faster Gemini 4 Hydrogen model is rolling out, free tier included. The lesson covers why big-bang rewrites fail, from Netscape to the FBI's Virtual Case File, the alternatives (refactor, wrap, strangler fig), and what Google's and Amazon's published AI migration results do and don't show.
+
+In this episode:
+• ChatGPT's new Wallet lets AI agents shop and check out for you — TechCrunch
+• OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users — CNBC
+• Introducing ChatGPT Wallet — OpenAI
+• Connect Google Wallet to Gemini for personal finance insights — Google
+• Google Wallet: Gemini kann jetzt auch auf die Finanzen der Nutzer zugreifen — GoogleWatchBlog
+• Introducing Gemini 4 Hydrogen — Google
+• Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch — The Decoder
+• Gemini 4 Hydrogen Review: Performance and Practical Tests — Analytics Vidhya
+• Claude release notes — Anthropic
+• Use Claude Meetings — Anthropic
+• Perplexity brings AI agents feature called Teammates to the Mac — 9to5Mac
+• Things You Should Never Do, Part I — Joel Spolsky, Joel on Software
+• Strangler Fig Application — Martin Fowler
+• Original Strangler Fig Application — Martin Fowler
+• Who Killed the Virtual Case File? — IEEE Spectrum
+• Information Technology: Agencies Need to Develop Modernization Plans for Critical Legacy Systems (GAO-19-471) — U.S. Government Accountability Office
+• GAO-25-107795: Legacy systems most in need of modernization — U.S. Government Accountability Office
+• How is Google using AI for internal code migrations? — Google, arXiv
+• Migrating Code At Scale With LLMs At Google — Google, arXiv
+• Amazon's AI assistant saves 4,500 years of development time, CEO Andy Jassy says — The Decoder
+• Andy Jassy on Amazon Q code transformation — Simon Willison</description>
+      <itunes:summary>OpenAI's dots can now buy things for you through ChatGPT Wallet, in a limited US Pro rollout. Gemini can now read linked bank and card accounts through Google Wallet, and Google's faster Gemini 4 Hydrogen model is rolling out, free tier included. The lesson covers why big-bang rewrites fail, from Netscape to the FBI's Virtual Case File, the alternatives (refactor, wrap, strangler fig), and what Google's and Amazon's published AI migration results do and don't show.
+
+In this episode:
+• ChatGPT's new Wallet lets AI agents shop and check out for you — TechCrunch
+• OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users — CNBC
+• Introducing ChatGPT Wallet — OpenAI
+• Connect Google Wallet to Gemini for personal finance insights — Google
+• Google Wallet: Gemini kann jetzt auch auf die Finanzen der Nutzer zugreifen — GoogleWatchBlog
+• Introducing Gemini 4 Hydrogen — Google
+• Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch — The Decoder
+• Gemini 4 Hydrogen Review: Performance and Practical Tests — Analytics Vidhya
+• Claude release notes — Anthropic
+• Use Claude Meetings — Anthropic
+• Perplexity brings AI agents feature called Teammates to the Mac — 9to5Mac
+• Things You Should Never Do, Part I — Joel Spolsky, Joel on Software
+• Strangler Fig Application — Martin Fowler
+• Original Strangler Fig Application — Martin Fowler
+• Who Killed the Virtual Case File? — IEEE Spectrum
+• Information Technology: Agencies Need to Develop Modernization Plans for Critical Legacy Systems (GAO-19-471) — U.S. Government Accountability Office
+• GAO-25-107795: Legacy systems most in need of modernization — U.S. Government Accountability Office
+• How is Google using AI for internal code migrations? — Google, arXiv
+• Migrating Code At Scale With LLMs At Google — Google, arXiv
+• Amazon's AI assistant saves 4,500 years of development time, CEO Andy Jassy says — The Decoder
+• Andy Jassy on Amazon Q code transformation — Simon Willison</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-14-000428.mp3" length="9849863" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-14-000428.mp3#9849863</guid>
+      <pubDate>Sat, 14 Nov 2026 05:44:47 +0000</pubDate>
+      <itunes:duration>13:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Fortran and scientific computing</title>
       <description>No feature news worth your time today. The lesson covers why weather, climate and physics codes still run on Fortran, why that choice is often rational, and what happens when teams try to move off it, including the E3SM climate model's rewrite in C plus plus.
