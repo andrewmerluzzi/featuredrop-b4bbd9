@@ -22,7 +22,39 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 14 Nov 2026 05:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:16:07 +0000</lastBuildDate>
+    <item>
+      <title>Why some languages win: ecosystems, not elegance · plus: Google's Gemini glasses</title>
+      <description>Google's Gemini-powered Intelligent Eyewear, made with Warby Parker and Gentle Monster, is open for pre-order ahead of a December tenth launch: camera, speakers and Gemini, but no display. The lesson explains why programming languages win on ecosystems, not elegance, from 'worse is better' to TypeScript topping GitHub, and why AI coding tools may entrench the popular languages even further.
+
+In this episode:
+• Google's Intelligent Eyewear collections are available for pre-order — Google
+• Designing for privacy on intelligent eyewear — Google
+• Samsung and Google's Smart Glasses Are Meta's First Real Competition — Gizmodo
+• I tried Google's new Intelligent Eyewear from Warby Parker and Gentle Monster — Tom's Guide
+• The Rise of Worse is Better — Richard P. Gabriel
+• Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 — GitHub
+• MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation — Cassano et al., arXiv
+• Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs (MultiPL-T) — Cassano et al., OOPSLA 2024
+• Large language models reduce public knowledge sharing on online Q&amp;A platforms — del Rio-Chanona, Laurentsyeva and Wachs, PNAS Nexus</description>
+      <itunes:summary>Google's Gemini-powered Intelligent Eyewear, made with Warby Parker and Gentle Monster, is open for pre-order ahead of a December tenth launch: camera, speakers and Gemini, but no display. The lesson explains why programming languages win on ecosystems, not elegance, from 'worse is better' to TypeScript topping GitHub, and why AI coding tools may entrench the popular languages even further.
+
+In this episode:
+• Google's Intelligent Eyewear collections are available for pre-order — Google
+• Designing for privacy on intelligent eyewear — Google
+• Samsung and Google's Smart Glasses Are Meta's First Real Competition — Gizmodo
+• I tried Google's new Intelligent Eyewear from Warby Parker and Gentle Monster — Tom's Guide
+• The Rise of Worse is Better — Richard P. Gabriel
+• Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 — GitHub
+• MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation — Cassano et al., arXiv
+• Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs (MultiPL-T) — Cassano et al., OOPSLA 2024
+• Large language models reduce public knowledge sharing on online Q&amp;A platforms — del Rio-Chanona, Laurentsyeva and Wachs, PNAS Nexus</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-15-023952.mp3" length="8075595" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-15-023952.mp3#8075595</guid>
+      <pubDate>Sun, 15 Nov 2026 13:16:06 +0000</pubDate>
+      <itunes:duration>10:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Rewrite, refactor, or wrap? The legacy modernization decision · plus: ChatGPT Wallet and Google Wallet in Gemini</title>
       <description>OpenAI's dots can now buy things for you through ChatGPT Wallet, in a limited US Pro rollout. Gemini can now read linked bank and card accounts through Google Wallet, and Google's faster Gemini 4 Hydrogen model is rolling out, free tier included. The lesson covers why big-bang rewrites fail, from Netscape to the FBI's Virtual Case File, the alternatives (refactor, wrap, strangler fig), and what Google's and Amazon's published AI migration results do and don't show.
