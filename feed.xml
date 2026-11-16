@@ -22,7 +22,41 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 15 Nov 2026 13:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:45:15 +0000</lastBuildDate>
+    <item>
+      <title>What happens when you load a web page</title>
+      <description>A quiet news day, so straight to the lesson, which opens a new unit on how modern systems fit together. It follows a single web page load from typing a name to seeing a page: DNS turning names into addresses, the encrypted connection and the HTTP request and response, and the browser putting dozens of files together, with front end and back end explained along the way. It closes with a recall question on version control.
+
+In this episode:
+• RFC 882: Domain Names, Concepts and Facilities — IETF / P. Mockapetris
+• Development of the Domain Name System (Mockapetris and Dunlap, 1988) — ACM SIGCOMM
+• There Are Not 13 Root Servers — ICANN
+• Root Server Technical Operations FAQ — root-servers.org
+• ED 19-01: Mitigate DNS Infrastructure Tampering — CISA
+• Information Management: A Proposal (Tim Berners-Lee, 1989) — W3C / CERN
+• RFC 9114: HTTP/3 — IETF
+• Web Almanac 2024: Page Weight — HTTP Archive
+• HTTPS encryption on the web — Google Transparency Report
+• Here's to more HTTPS on the web — Google Security Blog</description>
+      <itunes:summary>A quiet news day, so straight to the lesson, which opens a new unit on how modern systems fit together. It follows a single web page load from typing a name to seeing a page: DNS turning names into addresses, the encrypted connection and the HTTP request and response, and the browser putting dozens of files together, with front end and back end explained along the way. It closes with a recall question on version control.
+
+In this episode:
+• RFC 882: Domain Names, Concepts and Facilities — IETF / P. Mockapetris
+• Development of the Domain Name System (Mockapetris and Dunlap, 1988) — ACM SIGCOMM
+• There Are Not 13 Root Servers — ICANN
+• Root Server Technical Operations FAQ — root-servers.org
+• ED 19-01: Mitigate DNS Infrastructure Tampering — CISA
+• Information Management: A Proposal (Tim Berners-Lee, 1989) — W3C / CERN
+• RFC 9114: HTTP/3 — IETF
+• Web Almanac 2024: Page Weight — HTTP Archive
+• HTTPS encryption on the web — Google Transparency Report
+• Here's to more HTTPS on the web — Google Security Blog</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-16-093916.mp3" length="6923237" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-16-093916.mp3#6923237</guid>
+      <pubDate>Mon, 16 Nov 2026 14:45:15 +0000</pubDate>
+      <itunes:duration>9:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why some languages win: ecosystems, not elegance · plus: Google's Gemini glasses</title>
       <description>Google's Gemini-powered Intelligent Eyewear, made with Warby Parker and Gentle Monster, is open for pre-order ahead of a December tenth launch: camera, speakers and Gemini, but no display. The lesson explains why programming languages win on ecosystems, not elegance, from 'worse is better' to TypeScript topping GitHub, and why AI coding tools may entrench the popular languages even further.
