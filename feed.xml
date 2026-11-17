@@ -22,7 +22,49 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 16 Nov 2026 14:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:33:40 +0000</lastBuildDate>
+    <item>
+      <title>APIs: how software talks to software · plus: Ask Maps plans trips and books appointments</title>
+      <description>Google Maps' Ask Maps can now build day-by-day trip itineraries and, in the US, find open appointments and call local businesses for you; Gemini Notebook can turn your sources into interactive sites; and Gemini is separating chat history from AI training. The lesson explains APIs: requests and responses, REST and JSON, API keys and rate limits, and why 'does it have an API?' is the key question for automation and for AI agents.
+
+In this episode:
+• Ask Maps: new ways to plan holiday travel (Nov 16, 2026) — Google
+• Google Maps gets AI trip planning with Ask Maps and personalized travel itineraries — iTechPost
+• I tested Google Maps' Ask Maps AI and it actually helped — TechRadar
+• I've been using Ask Maps and it has forever changed Google Maps for me — Digital Trends
+• Transform notes, research, and sources into interactive sites with Gemini Notebook — Google
+• Gemini Notebook can now turn your research into interactive websites — Android Authority
+• New Gemini setting lets you keep chat history, but turn off AI training — 9to5Google
+• Architectural Styles and the Design of Network-based Software Architectures (Roy Fielding, 2000) — UC Irvine
+• RFC 8259: The JavaScript Object Notation (JSON) Data Interchange Format — IETF
+• The rise and rise of JSON — Two-Bit History
+• RFC 6585: Additional HTTP Status Codes (429 Too Many Requests) — IETF
+• Steve Yegge's Google Platforms Rant (2011) — Steve Yegge (via University of Washington)
+• Roadmap for a Digital Government — The White House (archived)
+• Digital Government Strategy: Agency Milestones — GSA HowTo.gov (archived)</description>
+      <itunes:summary>Google Maps' Ask Maps can now build day-by-day trip itineraries and, in the US, find open appointments and call local businesses for you; Gemini Notebook can turn your sources into interactive sites; and Gemini is separating chat history from AI training. The lesson explains APIs: requests and responses, REST and JSON, API keys and rate limits, and why 'does it have an API?' is the key question for automation and for AI agents.
+
+In this episode:
+• Ask Maps: new ways to plan holiday travel (Nov 16, 2026) — Google
+• Google Maps gets AI trip planning with Ask Maps and personalized travel itineraries — iTechPost
+• I tested Google Maps' Ask Maps AI and it actually helped — TechRadar
+• I've been using Ask Maps and it has forever changed Google Maps for me — Digital Trends
+• Transform notes, research, and sources into interactive sites with Gemini Notebook — Google
+• Gemini Notebook can now turn your research into interactive websites — Android Authority
+• New Gemini setting lets you keep chat history, but turn off AI training — 9to5Google
+• Architectural Styles and the Design of Network-based Software Architectures (Roy Fielding, 2000) — UC Irvine
+• RFC 8259: The JavaScript Object Notation (JSON) Data Interchange Format — IETF
+• The rise and rise of JSON — Two-Bit History
+• RFC 6585: Additional HTTP Status Codes (429 Too Many Requests) — IETF
+• Steve Yegge's Google Platforms Rant (2011) — Steve Yegge (via University of Washington)
+• Roadmap for a Digital Government — The White House (archived)
+• Digital Government Strategy: Agency Milestones — GSA HowTo.gov (archived)</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-17-092413.mp3" length="8631070" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-17-092413.mp3#8631070</guid>
+      <pubDate>Tue, 17 Nov 2026 14:33:39 +0000</pubDate>
+      <itunes:duration>11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What happens when you load a web page</title>
       <description>A quiet news day, so straight to the lesson, which opens a new unit on how modern systems fit together. It follows a single web page load from typing a name to seeing a page: DNS turning names into addresses, the encrypted connection and the HTTP request and response, and the browser putting dozens of files together, with front end and back end explained along the way. It closes with a recall question on version control.
