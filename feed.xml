@@ -22,7 +22,69 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 17 Nov 2026 14:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:41:50 +0000</lastBuildDate>
+    <item>
+      <title>Databases: relational, NoSQL, and vector · plus: Gemini Tasks goes free, and GPT-6.2 Astra and Sol</title>
+      <description>Google made Tasks, the Gemini agent that works in the background and on a schedule, free in six countries, with US-first business calling and Google Pay checkout; OpenAI shipped GPT-6.2 Astra and Sol to a notably mixed reception from power users. The lesson covers the three families of databases: relational tables and transactions, the NoSQL turn that traded consistency for scale, and the vector databases that arrived with LLMs.
+
+In this episode:
+• Put Gemini to work for you (Tasks in Gemini, Nov 17, 2026) — Google
+• Manage your tasks and workflows in Gemini Apps — Google
+• Create and manage schedules for tasks in Gemini — Google
+• Google just made its best Gemini agent free — here's where you can get it — Android Central
+• Google is giving millions of Gemini users a free personal AI agent — Android Police
+• Introducing GPT-6.2 Astra and Sol — OpenAI
+• What's new: GPT-6.2 Astra and Sol — OpenAI
+• OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work — SiliconANGLE
+• 'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users — VentureBeat
+• Vibe Check: GPT-6.2 Astra and Sol Leave Us Wanting More — Every
+• GPT-6.2 Astra and Sol (discussion) — Hacker News
+• Share skills and add files from Google Drive, Gemini Notebook and Google Photos to your skills in the Gemini app — Google Workspace Updates
+• Easily customize and extend Google Workspace with Gemini in Apps Script — Google Workspace Updates
+• Pixel owners can get early access to Create My Widget — Android Authority
+• ACID — Wikipedia
+• NoSQL — Wikipedia
+• Amazon's Dynamo (Werner Vogels, Oct 2, 2007) — All Things Distributed
+• Bigtable — Wikipedia
+• CAP theorem — Wikipedia
+• MongoDB — Wikipedia
+• Vector database — Wikipedia
+• Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs (Malkov and Yashunin) — arXiv
+• pgvector changelog — GitHub
+• Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020) — arXiv</description>
+      <itunes:summary>Google made Tasks, the Gemini agent that works in the background and on a schedule, free in six countries, with US-first business calling and Google Pay checkout; OpenAI shipped GPT-6.2 Astra and Sol to a notably mixed reception from power users. The lesson covers the three families of databases: relational tables and transactions, the NoSQL turn that traded consistency for scale, and the vector databases that arrived with LLMs.
+
+In this episode:
+• Put Gemini to work for you (Tasks in Gemini, Nov 17, 2026) — Google
+• Manage your tasks and workflows in Gemini Apps — Google
+• Create and manage schedules for tasks in Gemini — Google
+• Google just made its best Gemini agent free — here's where you can get it — Android Central
+• Google is giving millions of Gemini users a free personal AI agent — Android Police
+• Introducing GPT-6.2 Astra and Sol — OpenAI
+• What's new: GPT-6.2 Astra and Sol — OpenAI
+• OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work — SiliconANGLE
+• 'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users — VentureBeat
+• Vibe Check: GPT-6.2 Astra and Sol Leave Us Wanting More — Every
+• GPT-6.2 Astra and Sol (discussion) — Hacker News
+• Share skills and add files from Google Drive, Gemini Notebook and Google Photos to your skills in the Gemini app — Google Workspace Updates
+• Easily customize and extend Google Workspace with Gemini in Apps Script — Google Workspace Updates
+• Pixel owners can get early access to Create My Widget — Android Authority
+• ACID — Wikipedia
+• NoSQL — Wikipedia
+• Amazon's Dynamo (Werner Vogels, Oct 2, 2007) — All Things Distributed
+• Bigtable — Wikipedia
+• CAP theorem — Wikipedia
+• MongoDB — Wikipedia
+• Vector database — Wikipedia
+• Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs (Malkov and Yashunin) — arXiv
+• pgvector changelog — GitHub
+• Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020) — arXiv</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-18-084236.mp3" length="11007805" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-18-084236.mp3#11007805</guid>
+      <pubDate>Wed, 18 Nov 2026 14:41:49 +0000</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>APIs: how software talks to software · plus: Ask Maps plans trips and books appointments</title>
       <description>Google Maps' Ask Maps can now build day-by-day trip itineraries and, in the US, find open appointments and call local businesses for you; Gemini Notebook can turn your sources into interactive sites; and Gemini is separating chat history from AI training. The lesson explains APIs: requests and responses, REST and JSON, API keys and rate limits, and why 'does it have an API?' is the key question for automation and for AI agents.
