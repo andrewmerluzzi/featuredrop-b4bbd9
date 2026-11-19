@@ -22,7 +22,63 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 18 Nov 2026 14:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:27:33 +0000</lastBuildDate>
+    <item>
+      <title>The cloud: renting someone else's computer · plus: Microsoft's Autopilot and Office in Copilot, and Gemini 4 Neon</title>
+      <description>At Ignite, Microsoft made Word, Excel and PowerPoint generally available inside the Copilot app and began previewing Autopilot, an always-on personal agent, for organizations in its Frontier program; Google released Gemini 4 Neon, a mid-tier model for Pro and Ultra subscribers and the API. Plus a one-week check on Claude Whiteboards and Sheets, then a lesson on the cloud: where it came from, what IaaS, PaaS and SaaS mean, FedRAMP, and the economics of lock-in.
+
+In this episode:
+• Copilot at Microsoft Ignite: Expanding what's possible with intelligence built for work — Microsoft
+• Microsoft Ignite 2026: Empowering human ambition, intelligence and trust — Microsoft
+• Autopilot — Microsoft
+• Microsoft launches Autopilot, a personal agent for Copilot — TestingCatalog
+• Microsoft Ignite 2026: only 76 of 215 new features are ready today — Office Watch
+• Microsoft Copilot at Ignite 2026: Office in Copilot GA, Copilot Code in December, Autopilot — Data Studios
+• Introducing Gemini 4 Neon — Google
+• Google says Gemini 4 Neon can hang with Claude Opus 5.5 and GPT-6.2 Sol for less — Digital Trends
+• Introducing Claude Whiteboards, Claude Sheets, and Claude Data — Anthropic
+• Claude's New Whiteboards, Tested — Beginners in AI
+• Claude Whiteboards, Sheets and Data, Explained — Vanja Petreski
+• The NIST Definition of Cloud Computing (SP 800-145) — NIST
+• Cloud Infrastructure Services Market, Q3 2026 Update — TechInsights / Synergy Research
+• Synergy: enterprise cloud infrastructure spending jumped 55 percent year over year in Q3 — DatacenterDynamics
+• AWS follows Google Cloud, canceling egress fees for customers leaving — SiliconANGLE
+• Big clouds scramble as EU Data Act brings new data transfer rules — The Register
+• UK CMA finds elements of cloud computing market have an adverse effect on competition — DatacenterDynamics
+• Our cloud exit savings will now top ten million over five years — David Heinemeier Hansson
+• 37signals is completing its on-prem move, deleting its AWS account — The Register
+• FedRAMP 20x Phase 2 Recap — FedRAMP
+• Time for a Change: FedRAMP Fundamentally Revamps Program With Consolidated Rules for 2026 — Crowell and Moring</description>
+      <itunes:summary>At Ignite, Microsoft made Word, Excel and PowerPoint generally available inside the Copilot app and began previewing Autopilot, an always-on personal agent, for organizations in its Frontier program; Google released Gemini 4 Neon, a mid-tier model for Pro and Ultra subscribers and the API. Plus a one-week check on Claude Whiteboards and Sheets, then a lesson on the cloud: where it came from, what IaaS, PaaS and SaaS mean, FedRAMP, and the economics of lock-in.
+
+In this episode:
+• Copilot at Microsoft Ignite: Expanding what's possible with intelligence built for work — Microsoft
+• Microsoft Ignite 2026: Empowering human ambition, intelligence and trust — Microsoft
+• Autopilot — Microsoft
+• Microsoft launches Autopilot, a personal agent for Copilot — TestingCatalog
+• Microsoft Ignite 2026: only 76 of 215 new features are ready today — Office Watch
+• Microsoft Copilot at Ignite 2026: Office in Copilot GA, Copilot Code in December, Autopilot — Data Studios
+• Introducing Gemini 4 Neon — Google
+• Google says Gemini 4 Neon can hang with Claude Opus 5.5 and GPT-6.2 Sol for less — Digital Trends
+• Introducing Claude Whiteboards, Claude Sheets, and Claude Data — Anthropic
+• Claude's New Whiteboards, Tested — Beginners in AI
+• Claude Whiteboards, Sheets and Data, Explained — Vanja Petreski
+• The NIST Definition of Cloud Computing (SP 800-145) — NIST
+• Cloud Infrastructure Services Market, Q3 2026 Update — TechInsights / Synergy Research
+• Synergy: enterprise cloud infrastructure spending jumped 55 percent year over year in Q3 — DatacenterDynamics
+• AWS follows Google Cloud, canceling egress fees for customers leaving — SiliconANGLE
+• Big clouds scramble as EU Data Act brings new data transfer rules — The Register
+• UK CMA finds elements of cloud computing market have an adverse effect on competition — DatacenterDynamics
+• Our cloud exit savings will now top ten million over five years — David Heinemeier Hansson
+• 37signals is completing its on-prem move, deleting its AWS account — The Register
+• FedRAMP 20x Phase 2 Recap — FedRAMP
+• Time for a Change: FedRAMP Fundamentally Revamps Program With Consolidated Rules for 2026 — Crowell and Moring</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-19-091927.mp3" length="9954250" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-19-091927.mp3#9954250</guid>
+      <pubDate>Thu, 19 Nov 2026 16:27:32 +0000</pubDate>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Databases: relational, NoSQL, and vector · plus: Gemini Tasks goes free, and GPT-6.2 Astra and Sol</title>
       <description>Google made Tasks, the Gemini agent that works in the background and on a schedule, free in six countries, with US-first business calling and Google Pay checkout; OpenAI shipped GPT-6.2 Astra and Sol to a notably mixed reception from power users. The lesson covers the three families of databases: relational tables and transactions, the NoSQL turn that traded consistency for scale, and the vector databases that arrived with LLMs.
