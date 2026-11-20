@@ -22,7 +22,53 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 19 Nov 2026 16:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:59:58 +0000</lastBuildDate>
+    <item>
+      <title>Containers and Kubernetes, demystified · plus: Gemini computer use on Mac</title>
+      <description>Gemini's Mac app can now operate your desktop apps in a background window, for Google AI Plus, Pro and Ultra subscribers in the US, and ChatGPT's dictation now transcribes live with no ten-minute cap. The lesson explains what containers really are, how Docker made an old Linux trick usable, and why Kubernetes exists, with a recall question on testing.
+
+In this episode:
+• Use Gemini to work with apps on your Mac — Google Gemini Apps Help
+• Automate Mac tasks with Gemini computer use — Google
+• Google gives Gemini the ability to use your Mac for you — TechCrunch
+• Gemini app for Mac adds computer use to control desktop apps — 9to5Google
+• Gemini for Mac adds computer use to control desktop apps — Android Authority
+• ChatGPT release notes — OpenAI
+• ChatGPT Updates by OpenAI, November 2026 (release notes mirror) — Releasebot
+• OpenAI ChatGPT live dictation — The Verge
+• Genie 4 in the Gemini API — Google
+• Everything That Happened in AI Today, Friday, November 20 — The Neuron
+• The future of Linux containers (PyCon US 2013 lightning talk) — PyVideo
+• 10 Years of Kubernetes — Kubernetes Project
+• The History of Kubernetes and the Community Behind It — Kubernetes Project
+• Large-scale cluster management at Google with Borg (EuroSys 2015) — Google Research
+• DevSecOps Enterprise Container Hardening Guide 1.2 — US Department of Defense
+• Platform One Iron Bank case study — Anchore</description>
+      <itunes:summary>Gemini's Mac app can now operate your desktop apps in a background window, for Google AI Plus, Pro and Ultra subscribers in the US, and ChatGPT's dictation now transcribes live with no ten-minute cap. The lesson explains what containers really are, how Docker made an old Linux trick usable, and why Kubernetes exists, with a recall question on testing.
+
+In this episode:
+• Use Gemini to work with apps on your Mac — Google Gemini Apps Help
+• Automate Mac tasks with Gemini computer use — Google
+• Google gives Gemini the ability to use your Mac for you — TechCrunch
+• Gemini app for Mac adds computer use to control desktop apps — 9to5Google
+• Gemini for Mac adds computer use to control desktop apps — Android Authority
+• ChatGPT release notes — OpenAI
+• ChatGPT Updates by OpenAI, November 2026 (release notes mirror) — Releasebot
+• OpenAI ChatGPT live dictation — The Verge
+• Genie 4 in the Gemini API — Google
+• Everything That Happened in AI Today, Friday, November 20 — The Neuron
+• The future of Linux containers (PyCon US 2013 lightning talk) — PyVideo
+• 10 Years of Kubernetes — Kubernetes Project
+• The History of Kubernetes and the Community Behind It — Kubernetes Project
+• Large-scale cluster management at Google with Borg (EuroSys 2015) — Google Research
+• DevSecOps Enterprise Container Hardening Guide 1.2 — US Department of Defense
+• Platform One Iron Bank case study — Anchore</itunes:summary>
+      <enclosure url="https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-20-102538.mp3" length="10095584" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://andrewmerluzzi.github.io/featuredrop-b4bbd9/audio/2026-11-20-102538.mp3#10095584</guid>
+      <pubDate>Fri, 20 Nov 2026 21:59:57 +0000</pubDate>
+      <itunes:duration>13:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The cloud: renting someone else's computer · plus: Microsoft's Autopilot and Office in Copilot, and Gemini 4 Neon</title>
       <description>At Ignite, Microsoft made Word, Excel and PowerPoint generally available inside the Copilot app and began previewing Autopilot, an always-on personal agent, for organizations in its Frontier program; Google released Gemini 4 Neon, a mid-tier model for Pro and Ultra subscribers and the API. Plus a one-week check on Claude Whiteboards and Sheets, then a lesson on the cloud: where it came from, what IaaS, PaaS and SaaS mean, FedRAMP, and the economics of lock-in.
